@@ -1,0 +1,32 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background: linear-gradient(to right, #39d4c2, #fef960);
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    width: 80%;
+    margin: 20px auto;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+h1, h2 {
+    text-align: center;
+    color: #333;
+}
+.event-list li {
+    list-style: none;
+    background: #f3f3f3;
+    margin: 10px;
+    padding: 15px;
+    border-radius: 10px;
+}
+a {
+    color: white;
+    background: #ff4e50;
+    padding: 5px 10px;
+    border-radius: 5px;
+    text-decoration: none;
+}
